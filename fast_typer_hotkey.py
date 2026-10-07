@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Fast Keyboard Typer with Global Hotkey for macOS
-A tool that uses a global hotkey (Cmd+Shift+T) to trigger fast typing from any application.
+A tool that uses a global hotkey (Cmd+Shift+U) to trigger fast typing from any application.
 """
 
 import subprocess
